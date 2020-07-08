@@ -80,3 +80,4 @@ if __name__ == '__main__':
     process1.join()
     process2.join()
     process3.join()
+# Šo algoritmu ir iespējams pielietot dažādu sistēmau notikumu atspoguļošanai, kā arī ziņojumu sūtīšanas trafika analīzei.
